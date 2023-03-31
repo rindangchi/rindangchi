@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rindchi@gmail.com**
 
-- 📝 I make some vizes on tableau [https://public.tableau.com/app/profile/rindangcahyaning)
+- 📝 I make some vizes on tableau https://public.tableau.com/app/profile/rindangcahyaning
 
 
 <h3 align="left">Connect with me:</h3>
