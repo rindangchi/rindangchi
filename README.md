@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rindangchi&label=Profile%20views&color=0e75b6&style=flat" alt="rindangchi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/riinnchi" target="blank"><img src="https://img.shields.io/twitter/follow/riinnchi?logo=twitter&style=for-the-badge" alt="riinnchi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/riinnchii" target="blank"><img src="https://img.shields.io/twitter/follow/riinnchi?logo=twitter&style=for-the-badge" alt="riinnchi" /></a> </p>
 
 - 🌱 I’m currently learning **Python, SQL, BigQuery, Looker, PowerBi**
 
