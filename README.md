@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/riinnchii" target="blank"><img src="https://img.shields.io/twitter/follow/riinnchi?logo=twitter&style=for-the-badge" alt="riinnchi" /></a> </p>
 
+- 👩‍💼 I’m an SAP Consultant for more than 5 years specializing in Logstics Modules, specifically on CRM cloud, Plant Maintenance, and Production Planning, Currently I am on the way for career switching to data related roles.
+
 - 🌱 I’m currently learning **Python, SQL, BigQuery, Looker, PowerBi**
 
 - 🚀 You can access my list of portfolios on this page [portfolio](https://github.com/rindangchi/Portfolio)
