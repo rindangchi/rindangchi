@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm rindang</h1>
 <h3 align="center">A passionate entry level data analyst and consultant from Indonesia</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rindangchi&label=Profile%20views&color=0e75b6&style=flat" alt="rindangchi" /> </p> <p align="left"> <img src="https://media.tenor.com/s6qvnxo-MVwAAAAi/mimibubu.gif" width="60" height="60"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rindangchi&label=Profile%20views&color=0e75b6&style=flat" alt="rindangchi" /> </p> 
 
-<p align="left"> <a href="https://twitter.com/riinnchii" target="blank"><img src="https://img.shields.io/twitter/follow/riinnchi?logo=twitter&style=for-the-badge" alt="riinnchi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/riinnchii" target="blank"><img src="https://img.shields.io/twitter/follow/riinnchi?logo=twitter&style=for-the-badge" alt="riinnchi" /></a> </p> <p align="left"> <img src="https://media.tenor.com/s6qvnxo-MVwAAAAi/mimibubu.gif" width="60" height="60"/> </p>
 
 - 👩‍💼 I’m an SAP Consultant for more than 5 years specializing in Logstics Modules, specifically on CRM cloud, Plant Maintenance, and Production Planning, Currently I am on the way for career switching to data related roles
 
