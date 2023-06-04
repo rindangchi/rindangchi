@@ -29,7 +29,7 @@
 
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 <h3 align="left">I do services On:</h3>
-<a href=" https://www.fiverr.com/rindangc" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656738037fiverr-icon-png.png"  height="30" width="40" /></a>
+<a href=" https://www.fiverr.com/rindangc" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656738037fiverr-icon-png.png"  alt=" https://www.fiverr.com/rindangc"height="30" width="40" /></a>
  
 
 <h3 align="left">Languages and Tools:</h3>
