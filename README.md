@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/riinnchii" target="blank"><img src="https://img.shields.io/twitter/follow/riinnchi?logo=twitter&style=for-the-badge" alt="riinnchi" /></a>  </p>
 
-- 👩‍💼 I’m a data analyst enthusiast with consultant background. Experience in data analyst freelance project and SAP logstics project. 
+- 👩‍💼 I’m a data analyst enthusiast with consultant background. Experience in data analyst freelance project and SAP logstics project for about 5 years. 
 
 - 🛵 I'm currently open for new opportunity as data analyst or business analyst, you can download my CV [here](https://drive.google.com/file/d/1e76pZ8WIoqCce2ickznUZN3H0SVEKA-3/view?usp=share_link)
 
