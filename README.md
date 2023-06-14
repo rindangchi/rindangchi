@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rindang</h1>
-<h3 align="center">A passionate entry level data analyst and consultant from Indonesia</h3> 
+<h3 align="center">A passionate data analyst and consultant from Indonesia</h3> 
 <p align = 'center'> <img src="https://media.tenor.com/s6qvnxo-MVwAAAAi/mimibubu.gif" width="200" height="200"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rindangchi&label=Profile%20views&color=0e75b6&style=flat" alt="rindangchi" /> </p> 
