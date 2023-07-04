@@ -10,9 +10,9 @@
 
 - 🛵 I'm currently open for new opportunity as data analyst or business analyst, you can download my CV [here](https://drive.google.com/file/d/1e76pZ8WIoqCce2ickznUZN3H0SVEKA-3/view?usp=share_link)
 
+- 🚀 You can access my portfolio on this page [portfolio](https://github.com/rindangchi/Portfolio/blob/main/README.md)
+- 
 - 🌱 I’m proficient & currently learning **Python, SQL, Tableau, BigQuery, Looker, PowerBi, Figma**
-
-- 🚀 You can access my list of portfolios on this page [portfolio](https://github.com/rindangchi/Portfolio/blob/main/README.md)
 
 - 📝 I regularly write articles on [medium](https://rindangchi.medium.com/)
 
