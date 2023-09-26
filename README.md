@@ -17,6 +17,8 @@
 - 📫 How to reach me **rindchi@gmail.com**
 
 - 📝 I make some vizes on tableau [tableau](https://public.tableau.com/app/profile/rindangcahyaning)
+  
+- 📝 I craft freelance design on dribbble [dribbble](https://dribbble.com/rindchi)
 
 - 👩‍💻 I do some services on [Upwork](https://www.upwork.com/freelancers/~0176e6a04145ae9dfd) and [Fiverr](https://www.fiverr.com/rindangc)
 
