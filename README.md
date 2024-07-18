@@ -6,8 +6,8 @@
 
 - 👩‍💼 I’m a data analyst enthusiast with consultant background. Experience in data analyst freelance project and SAP logstics project for about 5 years. 
 
-- 🛵 I'm currently open for new opportunity as data analyst or business analyst, you can download my CV [here](https://drive.google.com/file/d/1madEsHHlLkAFNAqnaFP9fxM3L6inlNFB/view?usp=sharing)
-
+- 🛵 I'm currently open for new opportunity as data analyst or business analyst
+  
 - 🚀 You can access my portfolio on this page [portfolio](https://github.com/rindangchi/Portfolio/blob/main/README.md)
   
 - 🌱 I’m proficient & currently learning **Python, SQL, Tableau, BigQuery, Looker, PowerBi, Figma**
