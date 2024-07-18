@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rindangchi&label=Profile%20views&color=0e75b6&style=flat" alt="rindangchi" /> </p> 
 
-- 👩‍💼 I’m a data analyst enthusiast with consultant background. Experience in data analyst freelance project and SAP logstics project for about 5 years. 
+- 👩‍💼 I’m a data analyst enthusiast with consultant background. Experience in data analyst freelance project and SAP logstics project for about 6++ years. 
 
 - 🛵 I'm currently open for new opportunity as data analyst or business analyst
   
