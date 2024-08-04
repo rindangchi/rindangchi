@@ -10,7 +10,7 @@
   
 - 🚀 You can access my portfolio on this page [portfolio](https://github.com/rindangchi/Portfolio/blob/main/README.md)
   
-- 🌱 I’m proficient & currently learning **Python, SQL, Tableau, BigQuery, Looker, PowerBi, Figma**
+- 🌱 I’m proficient & currently learning **Python, SQL, Tableau, BigQuery, Looker, PowerBi, Figma, Azure Technologies**
 
 - 📝 I regularly write articles on [medium](https://rindangchi.medium.com/)
 
